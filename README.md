@@ -25,7 +25,7 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [Netherland Explorer](https://github.com/Em-IT/netherland-explorer)
 - [Markdown Previewer](https://github.com/Em-IT/markdown-previewer)
 
-## 🥇 Honors & Rewards:
+## 🥇 Honors & Awards:
 - HackerRank Gold Badge for Problem Solving
   - Oct 2021
   - [See credential](https://www.hackerrank.com/em_it?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin)
