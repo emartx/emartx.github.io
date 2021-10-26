@@ -55,5 +55,6 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 - [Free Code Camp](https://www.freecodecamp.org/emit)
 - [Stack Overflow](https://stackoverflow.com/users/2374310/emad-armoun)
 
+<!-- Certificates -->
 <!-- Some books I'm reading -->
 <!-- Latest posts -->
