@@ -24,13 +24,13 @@ A full-stack (Node.js, React.js) developer who followed his love❤️‍🔥 of
 <img alt="Xanbilak Logo" align="right" src="https://raw.githubusercontent.com/Em-IT/xanbilak/master/xanbilak-fe/src/assets/images/logo.png" width="10%" />
 
 - [Xanbilak](https://github.com/Em-IT/xanbilak)
-  - This is a utility which helps people in shopping. All of the family members can share the shopping list as easy as working with a messenger. I developed this small app using React.js, TypeScript, Socket.io, Redux, Jest, Enzyme & ...
+  - This is a utility which helps people in shopping. All of the family members can share the shopping list as easy as working with a messenger. I developed this small app using React.js, TypeScript, TailwindCSS, Socket.io, Redux, Jest, Enzyme & ...
 - [Xanbilak Backend1](https://github.com/Em-IT/xanbilak-be1)
   - The backend of Xanbilak, a utility which helps the family members to share & manage the shopping list. I implemented the backend using Rest APIs. I developed the APIs using Node.js (Express), TypeScript, PostgreSQL, Jest & ...
 - [EmIT Bot Net](https://github.com/Em-IT/EmITBotNet)
   - A framework to build telegram bots. I developed this platform using C#. It's based on DFA, so you can define the Nodes & Edges of the DFA, then the Telegram Bot is there ;)
 - [Netherland Explorer](https://em-it.github.io/netherland-explorer/)
-  - It's a sample project to apply some technologies. I developed the whole of frontend using the Material-UI css framework. Also I applied a search algorithm to increase the search speed and finally, I used the virtualization technique to render only visible part of screen, to speed up the web application.
+  - It's a sample project to apply some technologies. I developed the whole frontend using the Material-UI CSS framework. Also, I applied a search algorithm to increase the search speed, and finally, I used the virtualization technique to render only visible parts of the screen, to speed up the web application.
 - [Calculator](https://github.com/Em-IT/calculator)
   - It's a sample calculator project to apply some technologies. I developed the whole of frontend using the TailwindCSS framework.
 - [Huge Numbers (NPM Package)](https://em-it.github.io/huge-num/)
